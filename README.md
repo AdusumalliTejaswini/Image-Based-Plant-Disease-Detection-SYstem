@@ -1,2 +1,10 @@
-# Image-Based-Plant-Disease-Detection-SYstem
-The Image-Based Plant Disease Detection System is a project aimed at leveraging machine learning and computer vision techniques to detect diseases in plants using images.
+Plant Disease Detection System
+
+Overview:
+This project aims to develop an image-based plant disease detection system using deep learning techniques. By analyzing images of plant leaves, the system can identify whether the plant is healthy or infected with a disease. This can aid farmers and agronomists in early detection and management of plant diseases, thereby improving crop yield and reducing losses.
+
+Features:
+Image Classification: The system classifies plant images into healthy or diseased categories.
+Deep Learning Model: Utilizes convolutional neural networks (CNNs) for image classification.
+Web Interface: Provides a user-friendly web interface for uploading images and viewing results.
+Dataset: Uses a curated dataset of plant images with annotations for training and evaluation.
